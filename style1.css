@@ -1,0 +1,42 @@
+.data{
+    background-color: whitesmoke;
+}
+.rpl{
+    color: red;
+    background-color:purple;
+}
+.dkv{
+    color: green;
+    background-color: blueviolet;
+}
+.tkj{
+    color: orange;
+    background-color: magenta;
+}
+.tsm{
+    color: burlywood;
+    background-color: aliceblue;
+}
+.tbo{
+    color: lightskyblue;
+    background-color: aliceblue;
+}
+.tpl{
+    color: blue;
+    background-color: aliceblue;
+}
+.tpm{
+    color: darkblue;
+    background-color: aliceblue;
+}
+.tab{
+    color: yellow;
+    background-color: black;
+}
+.tkr{
+    color: mediumblue;
+    background-color: aliceblue;
+}
+body{
+    background-color: white;
+}
